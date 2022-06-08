@@ -1,9 +1,11 @@
-# paperdev - Save money when running VMs in PaperSpace
+# paperdev
 
 [![](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![npm](https://img.shields.io/npm/v/paperdev.svg)](https://www.npmjs.com/package/paperdev)
 [![npm](https://img.shields.io/npm/l/paperdev.svg)](https://spdx.org/licenses/MIT)
 [![npm](https://img.shields.io/npm/dt/paperdev.svg)](<[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/paperdev)>)
+
+Save money when running VMs in PaperSpace.
 
 `paperdev` is an unofficial CLI tool that automatically starts and stops PaperSpace VMs. Only be billed for the exact amount of time you need.
 

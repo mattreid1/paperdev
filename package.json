@@ -1,6 +1,6 @@
 {
   "name": "paperdev",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "CLI tool to automatically start and stop PaperSpace VMs",
   "main": "dist/cli.js",
   "bin": {
